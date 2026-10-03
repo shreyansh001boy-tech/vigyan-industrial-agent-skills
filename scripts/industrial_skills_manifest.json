@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "total_skills": 8,
+  "skills": [
+    {
+      "id": "aerospace-orbital-transfers",
+      "description": "Industrial astrodynamics and aerospace engineering solver for Keplerian orbital mechanics, Vis-Viva calculations, Hohmann transfer delta-v, and rocket staging mass fractions.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/aerospace-orbital-transfers/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/aerospace-orbital-transfers/scripts/solver.py"
+    },
+    {
+      "id": "biomedical-signal-filtering",
+      "description": "Industrial biomedical engineering and bio-signal processing solver for ECG/EEG digital Butterworth bandpass filtering, powerline noise removal, and heart rate R-peak detection.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/biomedical-signal-filtering/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/biomedical-signal-filtering/scripts/solver.py"
+    },
+    {
+      "id": "chemical-reactor-thermo",
+      "description": "Industrial chemical reaction engineering solver for CSTR and PFR reactor sizing, Arrhenius reaction kinetics, residence time distributions, and vapor-liquid equilibrium.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/chemical-reactor-thermo/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/chemical-reactor-thermo/scripts/solver.py"
+    },
+    {
+      "id": "materials-crystal-diffraction",
+      "description": "Industrial materials science and crystallography solver for X-ray diffraction (XRD), Bragg's law, interplanar spacing, lattice constants, and semiconductor alloy bandgap tuning.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/materials-crystal-diffraction/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/materials-crystal-diffraction/scripts/solver.py"
+    },
+    {
+      "id": "mechanical-fea-stress-tensors",
+      "description": "Industrial mechanical structural analysis and FEA solver for 3D Cauchy stress tensors, von Mises yield criteria, principal stresses, and Euler-Bernoulli beam deflections.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/mechanical-fea-stress-tensors/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/mechanical-fea-stress-tensors/scripts/solver.py"
+    },
+    {
+      "id": "power-grid-fault-analysis",
+      "description": "Industrial electrical power engineering solver for 3-phase symmetrical and unsymmetrical fault analysis, Fortescue symmetrical components, per-unit impedances, and transformer sizing.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/power-grid-fault-analysis/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/power-grid-fault-analysis/scripts/solver.py"
+    },
+    {
+      "id": "robotics-kinematics-control",
+      "description": "Industrial robotics kinematics and control systems solver for Denavit-Hartenberg (DH) homogeneous transforms, state-space controllability matrices, and PID controller dynamics.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/robotics-kinematics-control/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/robotics-kinematics-control/scripts/solver.py"
+    },
+    {
+      "id": "vlsi-cmos-timing-closure",
+      "description": "Industrial semiconductor VLSI analysis for CMOS timing closure, Elmore RC propagation delay, dynamic power dissipation, and subthreshold leakage modeling.",
+      "path": "/home/hello/vigyan-industrial-agent-skills/skills/vlsi-cmos-timing-closure/SKILL.md",
+      "has_solver": true,
+      "solver_script": "/home/hello/vigyan-industrial-agent-skills/skills/vlsi-cmos-timing-closure/scripts/solver.py"
+    }
+  ]
+}
