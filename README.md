@@ -70,6 +70,11 @@ done
 
 ---
 
-## 🔒 Confidentiality & License
+## 📜 License & Sovereign Attribution
 
-Private intellectual property. Copyright (c) 2026 Vigyan AI / Shreyansh Tech. All Rights Reserved.
+All industrial skills, specifications, runbooks, and numerical solvers in this repository are released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+- **Permitted Use:** University coursework, academic research, educational robotics/engineering projects, and personal non-commercial exploration.
+- **Commercial Restrictions:** Enterprise integration, defense contractor use, commercial tutoring or industrial automation SaaS requires an explicit commercial license.
+- **Founder & Chief Architect:** [Shreyansh Singh](https://github.com/shreyansh001boy-tech)
+- **Organization:** Vigyan AI / [ExperimentLab.in](https://experimentlab.in)
